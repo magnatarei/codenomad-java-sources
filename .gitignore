@@ -1,0 +1,41 @@
+# Saídas de compilação do Java
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+hs_err_pid*
+replay_pid*
+out/
+bin/
+build/
+target/
+classes/
+
+# Caches e pastas de dependência de ferramentas de build
+.gradle/
+.m2/
+.mvn/wrapper/maven-wrapper.jar
+*.ctxt
+.classpath
+.project
+.settings/
+.factorypath
+
+# Editores e IDEs
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+*.swp
+*.swo
+*~
+
+# Relatório do verificador interno
+.verificacao.json
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+desktop.ini
